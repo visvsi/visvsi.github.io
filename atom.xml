@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://visvsi.coding.me/</id>
-    <title>Gridea</title>
-    <updated>2019-11-27T03:49:42.375Z</updated>
+    <title>鑫的博客</title>
+    <updated>2019-11-27T03:50:14.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://visvsi.coding.me/"/>
     <link rel="self" href="https://visvsi.coding.me//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>耶耶耶！</subtitle>
     <logo>https://visvsi.coding.me//images/avatar.png</logo>
     <icon>https://visvsi.coding.me//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 鑫的博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://visvsi.coding.me//post/hello-gridea</id>
